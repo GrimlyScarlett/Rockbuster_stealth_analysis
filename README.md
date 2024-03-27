@@ -33,7 +33,7 @@ Regional Sales Analysis:
 
 
 Link to graphs I made in tableau for this project: 
-***IF you would like to see the final powerpoint presentation I put together email me @ scarlett.a.grim@gmail.com
+***If you would like to see the final powerpoint presentation I put together email me @ scarlett.a.grim@gmail.com
 
 https://public.tableau.com/views/categorybyrevenue/Sheet1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
