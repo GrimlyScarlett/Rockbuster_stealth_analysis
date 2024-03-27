@@ -36,7 +36,7 @@ WITH top_five_customers (customer_id, first_name, last_name, country, city) AS
 SELECT AVG(total_amount_paid) AS average_top_five 
 FROM top_five_customers
 
-#how many of the top 5 customers are baesd within each country 
+#how many of the top 5 customers are based within each country 
 WITH top_five_customers_cte (customer_id, first_name, last_name, country, city) AS
   (SELECT A.customer_id, 
       A.first_name 
@@ -80,6 +80,6 @@ FROM customer A
     city C on B. city_id = C.city_id 
   INNER JOIN 
     country D on c.country_id = D.country_id
-LEFT JOIN top_five_customers_cte ON A.customer_id = top_five_customers_cte.customer_Id
+LEFT JOIN top_five_customers_cte ON A.customer_id = top_five_customers_cte.customer_id
 GROUP BY D.country 
 ORDER BY all_customer_count DESC;
