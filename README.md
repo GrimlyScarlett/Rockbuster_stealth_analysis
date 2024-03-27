@@ -30,3 +30,17 @@ Customer Demographics:
   Analyzed customer lifetime value (CLV) to identify high-value customer segments.
 Regional Sales Analysis:
   Examined sales figures across different geographic regions to identify variations and trends.
+
+
+Link to graphs I made in tableau for this project: 
+***IF you would like to see the final powerpoint presentation I put together email me @ scarlett.a.grim@gmail.com
+
+https://public.tableau.com/views/categorybyrevenue/Sheet1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/lowest10moviesrevenue/Sheet1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+[https://public.tableau.com/shared/QD6BMHYTG?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/rockbustercustomercountandrevenuebycountry/Customer_count_revenue_country?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+https://public.tableau.com/views/Top5customers_17065643180210/Sheet1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/views/top_10_movies/Sheet1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
